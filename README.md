@@ -1,4 +1,4 @@
-# I appreciate everyone reading this right now
+# I appreciate everyone reading this right now.
 
 Welcome to my data portfolio (that's a work in progress) 👋 
 
